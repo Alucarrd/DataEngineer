@@ -1,0 +1,15 @@
+INFO       2019-10-19 17:23:33 load_fact_immgration at line 89: reading in ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat
+INFO       2019-10-19 17:24:57 load_fact_immgration at line 89: reading in ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat
+INFO       2019-10-19 17:25:34 load_fact_immgration at line 89: reading in ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat
+INFO       2019-10-19 17:31:14 load_fact_immgration at line 89: reading in ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat
+INFO       2019-10-19 17:33:11 load_fact_immgration at line 102: done reading ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat; current df shape:(2847924, 28)
+INFO       2019-10-19 17:33:11 load_fact_immgration at line 104: ready to insert row
+INFO       2019-10-19 17:39:33 load_fact_immgration at line 89: reading in ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat
+INFO       2019-10-19 17:41:22 load_fact_immgration at line 102: done reading ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat; current df shape:(2847924, 28)
+INFO       2019-10-19 17:41:22 load_fact_immgration at line 104: ready to insert row
+INFO       2019-10-19 17:49:21 load_fact_immgration at line 89: reading in ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat
+INFO       2019-10-19 17:50:59 load_fact_immgration at line 102: done reading ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat; current df shape:(2847924, 28)
+INFO       2019-10-19 17:50:59 load_fact_immgration at line 104: ready to insert row
+INFO       2019-10-20 07:16:46 load_fact_immigration at line 89: reading in ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat
+INFO       2019-10-20 07:18:43 load_fact_immigration at line 102: done reading ../../data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat; current df shape:(2847924, 28)
+INFO       2019-10-20 07:18:43 load_fact_immigration at line 104: ready to insert row

@@ -1,0 +1,6 @@
+numpy
+pandas
+configparser
+psycopg2
+sqlalchemy
+s3fs
